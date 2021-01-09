@@ -1,0 +1,21 @@
+.cardsHolder{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardDiv{
+  height: 230px;
+  width: 235px;
+  background-color: #282e3f;
+  /* background-color: #b1976b; */
+  border-radius: 3px;
+  margin-top: 80px;
+}
+
+.cadpxi{
+  width: 235px;
+  height: 190px;
+  object-fit: cover;
+  
+}

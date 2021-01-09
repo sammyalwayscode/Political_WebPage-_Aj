@@ -1,0 +1,43 @@
+.firstimgtext{
+  height: 350px;
+  width: 100vw;
+  background-color: black;
+}
+
+.awardfirpix{
+  height: 350px;
+  width: 100vw;
+  object-fit: cover;
+}
+
+.awdTex{
+  margin-top: -80px;
+  margin-left: 20px;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.awdCards{
+  height: 300px;
+  width: 330px;
+  background-color: #282e3f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 7px;
+  color: #b1976b;
+}
+
+.iconImg{
+  height: 60px;
+  width: 60px;
+}
+
+.awardCardHolddd{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-content: center;
+}

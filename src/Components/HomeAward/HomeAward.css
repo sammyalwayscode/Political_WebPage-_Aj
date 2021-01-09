@@ -1,0 +1,70 @@
+.subMainAward1{
+  height: 600px;
+  width: 100vw;
+  background-color: #282e3f;
+  margin-top: 250px;
+}
+
+.firstimgtext1{
+  height: 350px;
+  width: 100vw;
+  background-color: black;
+}
+
+.awardfirpix1{
+  height: 350px;
+  width: 100vw;
+  object-fit: cover;
+}
+
+.awdTex1{
+  margin-top: -80px;
+  margin-left: 20px;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.awardCardHolddd1{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+.awdCards1{
+  height: 300px;
+  width: 330px;
+  background-color: #282e3f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 7px;
+  color: #b1976b;
+  border: 1px solid #b1976b;
+}
+
+.iconImg1{
+  height: 60px;
+  width: 60px;
+}
+
+.textDiff11{
+  text-align: center;
+  /* margin-top: 50px; */
+  color: #b1976b;;
+}
+
+.projs11{
+  font-size: 20px;
+  /* margin-top: 30px; */
+}
+
+.rece11{
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: -25px;
+  color: white;
+}
